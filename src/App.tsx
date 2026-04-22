@@ -113,7 +113,7 @@ function PinPage({ onNext }: { onNext: () => void }) {
             </button>
           ))}
         </div>
-        <p className="mt-10 text-white/30 text-[10px] tracking-widest uppercase">Hint: Special date (3115)</p>
+        <p className="mt-10 text-white/30 text-[10px] tracking-widest uppercase">Hint: Special date</p>
       </motion.div>
     </motion.div>
   );
